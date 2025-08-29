@@ -1,16 +1,15 @@
-## Hi there 👋
+## TheWiiArchivist
+････････････････････････････････････････････････････････････････････････････････････････
 
-<!--
-**TheWiiArchivist/TheWiiArchivist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like making fun projects that involve the Wii or Nintendo :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Wii related projects
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: by e-mail: contact.thewiiarchivist@gmail.com (i don't check often, comment on my YT instead!) <br>
+      by YouTube https://www.youtube.com/@ChrisplayzWii
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love the Nintendo Wii, Wii U, 3DS, and Switch!
+
+
+････････････････････････････････････････････････････････････････････････････････････････
