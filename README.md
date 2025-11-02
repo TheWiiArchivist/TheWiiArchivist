@@ -12,7 +12,7 @@ I like making fun projects that involve the Wii or Nintendo :)
 
 <h3>Contact:</h3>
 
-E-mail me: contact.thewiiarchivist@gmail.com <i>(i don't check often, comment on yt instead..)</i> <br>
+send an email i guess: contact.thewiiarchivist@gmail.com <i>(i don't check often, comment on yt instead..)</i> <br>
 Comment on YouTube: https://www.youtube.com/@TheWiiArchivist
 
 
