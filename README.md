@@ -1,16 +1,13 @@
-## Hi there 👋
+## TheWiiArchivist
+<h3>Hi :)</h3>
+I love the Nintendo Wii, Wii U, 3DS, and Switch! (if it wasnt already obvious i like the wii)
 
-<!--
-**TheWiiArchivist/TheWiiArchivist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Alot of my stuff here are related to the Nintendo wii  :D
+<h3>Contact:</h3>
 
-Here are some ideas to get you started:
+send an email i guess: contact.thewiiarchivist@gmail.com <i>(i don't check often, comment on yt instead..)</i> <br>
+Comment on YouTube: https://www.youtube.com/@TheWiiArchivist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+-----------------------------------
+btw, i'm making a wii beta content archive project, check it out: <a href="https://github.com/betawii">@betawii</a>
